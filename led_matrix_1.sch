@@ -2267,8 +2267,6 @@ Wire Wire Line
 	8700 2650 8950 2650
 Wire Wire Line
 	8700 2550 8950 2550
-Text HLabel 1600 1150 0    50   Input ~ 0
-MISO
 Text HLabel 1600 1250 0    50   Input ~ 0
 SCLK
 NoConn ~ 8700 6050
@@ -2472,4 +2470,6 @@ Wire Wire Line
 	1700 1150 1600 1150
 Wire Wire Line
 	1700 1250 1600 1250
+Text HLabel 1600 1150 0    50   Input ~ 0
+MOSI
 $EndSCHEMATC

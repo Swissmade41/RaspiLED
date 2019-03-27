@@ -5,8 +5,8 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 2
-Title ""
-Date ""
+Title "RaspberryPi LED shield"
+Date "2019-03-27"
 Rev ""
 Comp ""
 Comment1 ""
